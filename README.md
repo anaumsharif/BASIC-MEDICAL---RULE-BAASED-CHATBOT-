@@ -34,7 +34,7 @@ Before running the chatbot, ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/basic-medical-rule-based-chatbot.git
+   git clone https://github.com/anaumsharif/BASIC-MEDICAL---RULE-BASED-CHATBOT.git
    ```
 
 2. **Navigate to Project Directory**:
